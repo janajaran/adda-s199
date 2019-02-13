@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thimble Sample</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Jana's Website!</h1>
+    <p>
+      This is a wesbite
+    </p>
+    <h1>
+    asjgdjhgsadf
+    </h1>
+      <h2>
+    asjhdfjfbas
+    </h2>
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla efficitur a nulla in elementum. Morbi vitae nulla nisi. Sed elementum ornare mollis. Pellentesque aliquam mi at mattis maximus. Morbi luctus ac nulla id interdum. Vestibulum congue consequat eros eget convallis. Vivamus feugiat ac dui quis varius.</p>
+    <p class="special">
+
+      <p>
+      Praesent imperdiet lacus sem, et pretium mauris venenatis a. Aliquam quam eros, consectetur in iaculis nec, hendrerit a orci. Vivamus semper lacus quam, sit amet maximus nibh pharetra non. Vestibulum suscipit maximus ante, et semper ex ultricies eu. Donec in mi efficitur, facilisis leo at, dictum ipsum. Fusce eleifend tempor est sit amet varius. Nam at posuere lacus, ut dignissim risus. Morbi varius dignissim mi, id lobortis dui efficitur sit amet.
+    </p>
+        <p>
+      Etiam vel sodales lorem. Mauris urna enim, cursus nec tellus ut, suscipit gravida massa. Etiam elementum lacus convallis, hendrerit metus quis, porta nunc. Fusce convallis nulla ac risus dapibus egestas. Vestibulum magna enim, feugiat ac dapibus a, condimentum quis augue. Nullam sodales finibus libero, quis finibus turpis scelerisque id. Quisque sed lectus porttitor, gravida erat id, ultricies ligula. Aliquam convallis velit a consectetur ultricies. Curabitur ullamcorper dui nec pharetra bibendum. Pellentesque non vulputate nisi, ac tincidunt diam. Donec tincidunt vestibulum mi, eu hendrerit est malesuada congue. Ut quis neque et nulla tristique pretium. Nunc et nunc nec enim auctor gravida. Quisque dignissim feugiat augue maximus cursus. Aliquam quis commodo mi, in varius mauris.
+    </p>
+    <img src="ocean.jpg" alt="Img-description"
+
+</html>
